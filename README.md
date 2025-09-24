@@ -1,4 +1,5 @@
-![Logo](logo.png)
+
+![Logo](Screenshot_20250922-201747~2.png)
 <p align="center">
   <img width="650px" height="100px" src="Icon/Banner.png">
 </p>
